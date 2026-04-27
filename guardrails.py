@@ -137,5 +137,5 @@ if __name__ == "__main__":
     for query, expected in tests:
         valid, msg = validate_bug_report(query)
         status = "✓" if valid == expected else "✗"
-        print(f"{status} [{('PASS' if valid else 'FAIL')}] {query!r[:50]}")
+        print(f"{status} [{'PASS' if valid else 'FAIL'}] {repr(query)[:50]}")
     print("\nDone.")
