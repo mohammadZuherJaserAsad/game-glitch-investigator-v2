@@ -210,8 +210,8 @@ Query: "hi"
 
 ## Demo Walkthrough
 
-> **[Add your Loom video link here]**
-> Record a 2-3 minute walkthrough showing:
+> **[Watch the demo walkthrough](https://www.loom.com/share/3b771028627a42cd8abcf2e219e1a31e)**
+> Walkthrough covers:
 > 1. The fixed game running (Tab 1)
 > 2. The AI investigator diagnosing 2-3 bugs (Tab 2)
 > 3. The evaluation harness output (Tab 3)
